@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter/Inter-ExtraBold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/inter/Inter-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/inter/Inter-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/inter/Inter-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/inter/Inter-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
